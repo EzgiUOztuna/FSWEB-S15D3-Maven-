@@ -28,6 +28,7 @@ public class MainTest {
         employees.add(new Employee(3, "Anil", "Ensari"));
         employees.add(new Employee(4, "Burak", "Cevizli"));
         employees.add(null);
+
     }
 
     @DisplayName("Employee sınıfı doğru access modifiers sahip mi")
